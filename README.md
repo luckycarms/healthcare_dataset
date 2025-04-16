@@ -48,15 +48,36 @@ Patil, P. (2024, May 8). Healthcare dataset. Kaggle. https://www.kaggle.com/data
 
 ## Project Overview
 
-## Description
+This project will look at synthetic healthcare data for the purposes of cleaning and creating plots to see what the data shows.
 
 ## Project Structure
 
+1. Data exploration: Jupyter Notebook
+2. Analysis: Using Python with Pandas Package to clean and organize the data
+3. Visualization: Using Matplotlib and Seaborn to plot the data
+
 ## Features Utilized
+
+| Feature | Description |
+| ------- | ----------- |
+| Read in dataset with API | Read in dataset using Kagglehub API |
+| Cleaned dataset | In jupyter notebook, cleaned the dataset by removing columns not needed |
+| Visualization | Made Line Graphs to display findings |
+| Utilized Virtual Environment | Made a venv for this project |
+| Notate code | In jupyter notebook, notated code within code cells as well as made notes in markdown cells |
 
 ## Getting Started
 
+1. Clone the repository: [git clone](https://github.com/luckycarms/healthcare_dataset)
+2. Create a virtual environment (follow commands below)
+3. Install the necessary requirements: pip install -r requirements.txt
+4. Explore the jupyter notebook (you may need to install kernel if using vs code)
+
 ## Dependencies
+
+- Used Python with Pandas
+- Review requirements text
+- used a Mac OS Sequoia 15.3.1
 
 ## Virtual Environment
 
